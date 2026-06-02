@@ -50,9 +50,9 @@ The design includes clean layouts, modern UI components, and a professional visu
 
 ---
 
+---
 ## 🖼️ Preview
 
-Add your design screenshots inside an `assets` or `screenshots` folder and update the image paths below.
-
-```md
 ![Logistics App Preview](./screenshots/logistics-preview.png)
+
+---
